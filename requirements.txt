@@ -228,3 +228,4 @@ yapf==0.33.0
 yarl==1.9.2
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
 transformers>=4.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
