@@ -203,7 +203,7 @@ pyobjc-framework-Vision==9.1.1
 pyobjc-framework-WebKit==9.1.1
 PySoundFile==0.9.0.post1
 python-engineio==4.4.1
-python-socketio==5.8.0
+python-socketio==5.14.0
 pyttsx3==2.90
 PyYAML==6.0
 regex==2023.5.5
